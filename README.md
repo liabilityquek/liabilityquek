@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Harold, a software engineer and financial executive with a diverse background. Transitioning from managing Accounts Receivable and Finance to software development,  I've explored a variety of skills in both technical and financial domains.<br><br>I've had the privilege to work on projects that significantly improved routine tasks and reduced overdue receivables. As a lifelong learner, I believe in the transformative power of code and efficient credit management to make a positive impact.<br><br>Feel free to explore my profile and reach out for collaboration or tech chats. You can contact me at linkedin.com/in/harold-quek-b120a0180.<br><br>Let's explore the world of coding together! 🚀
+Hello! 👋 I'm Harold, a software engineer and financial executive with a diverse background. Transitioning from managing Accounts Receivable and Finance to software development,  I've explored a variety of skills in both technical and financial domains.<br><br>I've had the privilege to work on projects that significantly improved routine tasks and reduced overdue receivables. As a lifelong learner, I believe in the transformative power of code and efficient credit management to make a positive impact.<br><br>Feel free to explore my profile and reach out for collaboration or tech chats.
 
 
 ## 🌐 Socials:
